@@ -42,23 +42,23 @@
 * [规范 - 操作通知模板](http://www-njq.51vip.biz/articles/2019/10/22/1571722225906.html)
 * [Kubernetes - helm 仓库](http://www-njq.51vip.biz/articles/2019/10/21/1571644454171.html)
 * [传统运维 - jumpserver api](http://www-njq.51vip.biz/articles/2019/10/23/1571816602789.html)
+* [传统运维 - sed常用命令](http://www-njq.51vip.biz/articles/2019/10/21/1571649103160.html)
+* [Kubernetes - helm 安装/升级 组件](http://www-njq.51vip.biz/articles/2019/10/23/1571812684005.html)
 * [传统运维 - socket转http代理](http://www-njq.51vip.biz/articles/2019/10/22/1571722759291.html)
 * [规范 - shell](http://www-njq.51vip.biz/articles/2019/10/22/1571722353743.html)
-* [Kubernetes - helm 安装/升级 组件](http://www-njq.51vip.biz/articles/2019/10/23/1571812684005.html)
-* [传统运维 - sed常用命令](http://www-njq.51vip.biz/articles/2019/10/21/1571649103160.html)
 * [Prometheus - 使用规则](http://www-njq.51vip.biz/articles/2019/10/22/1571731298273.html)
-* [Kubernetes - helm backup](http://www-njq.51vip.biz/articles/2019/10/23/1571812476296.html)
 * [传统运维 - sysdig描述](http://www-njq.51vip.biz/articles/2019/10/22/1571730148811.html)
-* [Ldap - jumpserver](http://www-njq.51vip.biz/articles/2019/10/22/1571721374525.html)
-* [Ldap - harbor](http://www-njq.51vip.biz/articles/2019/10/22/1571721530968.html)
-* [Docker - 树莓派](http://www-njq.51vip.biz/articles/2019/10/21/1571659195708.html)
+* [Kubernetes - helm backup](http://www-njq.51vip.biz/articles/2019/10/23/1571812476296.html)
 * [传统运维 - 服务器root权限](http://www-njq.51vip.biz/articles/2019/10/23/1571813539473.html)
+* [Docker - 树莓派](http://www-njq.51vip.biz/articles/2019/10/21/1571659195708.html)
+* [Ldap - zabbix](http://www-njq.51vip.biz/articles/2019/10/22/1571721208875.html)
+* [Ldap - jumpserver](http://www-njq.51vip.biz/articles/2019/10/22/1571721374525.html)
 
 ### 热议
 
 * [Kubernetes - helm chartmuseum](http://www-njq.51vip.biz/articles/2019/10/23/1571812641180.html)
-* [传统运维 - Redis使用规范](http://www-njq.51vip.biz/articles/2019/10/23/1571817251963.html)
 * [传统运维 - IDC机房操作规范](http://www-njq.51vip.biz/articles/2019/10/23/1571817137705.html)
+* [传统运维 - Redis使用规范](http://www-njq.51vip.biz/articles/2019/10/23/1571817251963.html)
 * [Prometheus - node-exporter指标](http://www-njq.51vip.biz/articles/2019/10/22/1571731425979.html)
 * [Prometheus - 目录结构](http://www-njq.51vip.biz/articles/2019/10/22/1571731024256.html)
 * [Prometheus - 何为监控](http://www-njq.51vip.biz/articles/2019/10/22/1571730978595.html)
@@ -71,11 +71,11 @@
 * [Kubernetes - deployment](http://www-njq.51vip.biz/articles/2019/10/21/1571648375829.html)
 * [Kubernetes - 资料](http://www-njq.51vip.biz/articles/2019/10/21/1571648463572.html)
 * [Kubernetes - 工具](http://www-njq.51vip.biz/articles/2019/10/21/1571648494965.html)
+* [Kubernetes - Q&A](http://www-njq.51vip.biz/articles/2019/10/21/1571648595895.html)
 * [Mysql - slowlog](http://www-njq.51vip.biz/articles/2019/10/21/1571648653371.html)
 * [Terraform - Used](http://www-njq.51vip.biz/articles/2019/10/21/1571648974851.html)
 * [传统运维 - 创建swap](http://www-njq.51vip.biz/articles/2019/10/21/1571649022625.html)
 * [传统运维 - 修改ssh key密码](http://www-njq.51vip.biz/articles/2019/10/21/1571649068844.html)
-* [Ansible - 模块](http://www-njq.51vip.biz/articles/2019/10/21/1571649143294.html)
 
 ---
 
